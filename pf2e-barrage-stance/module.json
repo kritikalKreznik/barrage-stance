@@ -1,0 +1,39 @@
+{
+  "id": "pf2e-barrage-stance",
+  "title": "PF2E: Barrage Stance",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Author 1",
+      "discord": "kritikalkreznik",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "feat",
+      "label": "Feat",
+      "path": "packs/feat",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
