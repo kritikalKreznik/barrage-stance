@@ -35,5 +35,8 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/kritikalKreznik/barrage-stance",
+  "manifest": "https://raw.githubusercontent.com/YourName/PF2e-Example/master/module.json",
+  "download": "https://github.com/YourName/PF2e-Example/archive/refs/heads/main.zip"
 }
