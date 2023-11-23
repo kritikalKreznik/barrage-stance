@@ -37,6 +37,6 @@
     }
   ],
   "url": "https://github.com/kritikalKreznik/barrage-stance",
-  "manifest": "https://raw.githubusercontent.com/kritikalKreznik/barrage-stance/blob/main/pf2e-barrage-stance/module.json",
+  "manifest": "https://raw.githubusercontent.com/kritikalKreznik/barrage-stance/main/pf2e-barrage-stance/module.json",
   "download": "https://github.com/kritikalKreznik/barrage-stance/archive/refs/heads/main.zip"
 }
